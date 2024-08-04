@@ -1,2 +1,2 @@
-# 100-days-python
-mini-projects during the course
+# console-py-scripts
+Collection of command-line Python applications
