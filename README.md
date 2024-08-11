@@ -10,5 +10,5 @@ A collection of command-line Python applications.
    ```
 2. Execute the main Python script:
    ```bash
-   python index.py
+   python main.py
    ```
